@@ -15,6 +15,7 @@
 -   [uigradients](https://uigradients.com/) : gradient
 -   [Flatuicolorpicker](http://www.flatuicolorpicker.com/) : flat ui colors
 -   [Color Blender](http://www.colorblender.com/) : color matching
+-   [Free Logo Maker](https://logomakr.com/) : logo maker
 
 ## Coding
 
@@ -28,6 +29,7 @@
 
 ## Website wireframe & prototype
 
+-   [Oven](https://ovenapp.io/) - online
 -   [justinmind](https://www.justinmind.com/)
 -   [axure](https://www.axure.com/)
 -   [Adobe xd](https://www.adobe.com/products/xd.html)
