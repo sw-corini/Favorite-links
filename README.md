@@ -1,7 +1,4 @@
 # Favorite-links
-
-진심 이젠 크롬의 즐겨찾기 링크들을 관리할 때가 왔다.
-
 > [BookMark List](https://www.notion.so/corini/54ef1fe76909418d95b4bc5140dc7ae6?v=63ef0520c16f42ff9a3c176a4b30ec40) 에 있는 링크 중 일부 정리
 
 ## Design & Color
